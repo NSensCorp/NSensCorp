@@ -1,4 +1,4 @@
-Hi 👋 My name is NSensCorp
+NSensCorp
 ==========================
 
 <a href="https://www.github.com/nsenscorp" target="_blank" rel="noreferrer"><img
